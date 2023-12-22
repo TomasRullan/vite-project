@@ -1,5 +1,5 @@
 import '../styles/About.css'
-import profilePic from '../components/images/profilePic.png';
+import profilePic from '../components/images/profilepic.png';
 
 export default function About() {
   return (
