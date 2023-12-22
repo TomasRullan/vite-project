@@ -1,0 +1,35 @@
+.footer {
+    background-color: #030f7e;
+    border-top: 3px solid #080808;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer a {
+    margin: 0 40px;
+    color: #f4f1de;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #a07836;
+    transform: scale(1.2);
+}
+
+.footer a svg {
+    width: 70px;
+    height: 70px;
+}
+
+@media screen and (max-width: 768px) {
+    .footer a svg {
+        width: 30px;
+        height: 30px;
+    }
+
+    .footer a {
+        margin: 0 20px;
+    }
+}

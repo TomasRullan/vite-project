@@ -1,0 +1,11 @@
+.project-container h1 {
+    text-align: center;
+    color: #070707;    
+    margin-bottom: 30px;    
+    margin-top: 45px;
+}
+
+.project-container {
+    padding-left: 10px;
+    padding-right: 10px;
+}
