@@ -13,9 +13,9 @@ export default function About() {
           <p className="text-justify">
             Greetings!<br>
             </br><br></br>
-            Welcome to my portfolio. Im a 26 year old trying to break into tech ive <br></br><br></br>
+            Welcome to my portfolio. Im a 26 year old trying to break into tech ive learned alot so far and cant wait to learn more <br></br><br></br>
 
-            With a robust background in finance, manufacturing, and operations management within the defense sector, I have developed strong leadership abilities and a knack for managing complex programs. My goal is to leverage these skills, combined with my newfound software development expertise, to make a mark as a Software Engineer in the defense industry.<br></br><br></br>
+          <br></br><br></br>
 
           </p>
         </div>
